@@ -61,9 +61,9 @@ const { page } = useData()
 
 - **报账单**:arrow_right:用于申请报销的表格，需填写费用明细、项目信息等。
 
-  ![](C:\Users\yunbo\AppData\Roaming\Typora\typora-user-images\image-20250319213823852.png)
+  ![](https://picx.zhimg.com/80/v2-af40efeadcc32a1927ac37b2f664af19_1440w.png?source=d16d100b)
 
-  ![](C:\Users\yunbo\AppData\Roaming\Typora\typora-user-images\image-20250319213932427.png)
+  ![](https://picx.zhimg.com/80/v2-46834740cadd9f794861f8181854fce9_1440w.png?source=d16d100b)
 
 ### **:warning:1.3 发票的"江湖规矩"**
 
@@ -87,7 +87,7 @@ const { page } = useData()
 
 - :three:**附件清单**:heavy_minus_sign:发票、收据、购买记录等附件要齐全，缺一不可。
 
-  ![image-20250319213959319](C:\Users\yunbo\AppData\Roaming\Typora\typora-user-images\image-20250319213959319.png)
+![](https://picx.zhimg.com/80/v2-3f997ef7cb03bcf76b58dfd1b759738e_1440w.png?source=d16d100b)
 
 ### **2.2 :arrow_backward:审批流程：耐心是美德**:arrow_forward:
 
