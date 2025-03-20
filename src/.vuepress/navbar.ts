@@ -52,4 +52,9 @@ export default navbar([
     link: "/Office/",
     icon: "fas fa-file-alt",
   },
+  {
+    text: "就业实践",
+    link: "/SocialPractice/",
+    icon: "fas fa-file-alt",
+  },
 ]);
