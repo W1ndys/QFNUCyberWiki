@@ -11,4 +11,5 @@ export default sidebar({
   "/DormSanitation/": "structure",
   "/MentalHealth/": "structure",
   "/Office/": "structure",
+  "/SocialPractice/": "structure",
 });
