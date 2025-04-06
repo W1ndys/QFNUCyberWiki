@@ -82,6 +82,7 @@ title: 当代大学生必备计算机素养指南
 - 关注[MOOC平台](https://www.coursera.org/)优质课程
 - 参与[GitHub开源项目](https://github.com/)
 - 订阅[Medium技术专栏](https://medium.com/)
+- 批判一下[W1ndys](https://w1ndys.top)
 
 > 数字时代，计算机素养已成为新型基础能力。建议每学期重点突破1-2个领域，通过项目实践巩固技能。技术进步日新月异，保持持续学习才能始终立于不败之地。
 
