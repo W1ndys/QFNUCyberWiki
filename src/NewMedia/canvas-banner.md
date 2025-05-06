@@ -1,9 +1,5 @@
 ---
 title: Canva易拉宝设计终极指南 | 5步打造高级视觉体验
----
-
----
-title: Canva易拉宝设计终极指南 | 5步打造高级视觉体验
 description: 从零基础到专业级别的易拉宝设计完全手册
 tags:
   - Canva教程
