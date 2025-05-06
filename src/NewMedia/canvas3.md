@@ -1,9 +1,5 @@
 ---
 title: Canva高级展板设计·5步速成 | 打造高级体验
----
-
----
-title: Canva高级展板设计·5步速成 | 打造高级体验
 description: 我奶奶看了都能学会
 tags:
   - Canva教程
