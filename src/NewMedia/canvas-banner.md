@@ -1,9 +1,5 @@
 ---
 title: Canva高级易拉宝设计·5步速成 | 打造吸睛展现
----
-
----
-title: Canva高级易拉宝设计·5步速成 | 打造吸睛展现
 description: 零基础也能做出高级感爆棚的易拉宝！
 tags:
   - Canva教程
