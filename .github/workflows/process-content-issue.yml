@@ -136,10 +136,10 @@ jobs:
               if not text:
                   return text
               # 解除常见的Markdown转义字符
-              text = text.replace('\\*', '*')
-              text = text.replace('\\#', '#')
-              text = text.replace('\\`', '`')
-              text = text.replace('\\\\', '\\')
+              text = text.replace('\\\\*', '*')
+              text = text.replace('\\\\#', '#')
+              text = text.replace('\\\\`', '`')
+              text = text.replace('\\\\\\\\', '\\\\')
               return text
 
           def extract_section(body, section_name):
@@ -198,7 +198,7 @@ jobs:
               # 处理文件名：替换_为-，去掉空格，移除.md后缀
               if filename:
                   # 替换_为-，去掉空格
-                  filename = filename.replace('_', '-').replace(' ', '')
+                  filename = filename.replace('_', '-').replace(' ', '-')
                   # 移除.md后缀 (如果存在)
                   if filename.endswith('.md'):
                       filename = filename.replace('.md', '')
