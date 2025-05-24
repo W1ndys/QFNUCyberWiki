@@ -24,7 +24,7 @@ body:
       description: 请提供内容的标题
       placeholder: 例如：网络钓鱼防范指南
     validations:
-      required: false
+      required: true
 
   - type: input
     id: filename
@@ -33,7 +33,7 @@ body:
       description: 为这篇文章取一个间断的英文文件名（🚫不要有空格，⭕可用连字符，不需要带文件后缀，例如`hello`而不是`hello.md`）
       placeholder: 例如：phishing-prevention-guide
     validations:
-      required: false
+      required: true
 
   - type: textarea
     id: markdown-content
@@ -53,4 +53,4 @@ body:
         更多内容...
       render: markdown
     validations:
-      required: false
+      required: true
